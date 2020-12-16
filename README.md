@@ -1,3 +1,10 @@
+# Project Created with the GitHub public API, the project goal, was creating a repo search service, where you can type the name/repoName.   
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
